@@ -1,9 +1,43 @@
+body{
+    font: 20px Arial, sans-serif;
+ 
+}
 .navbar{
-    background-color:#071019; 
+    background-color:#CED8F6;
+    
 }
 .quem-somos{
-    background-color: #A4A4A4;
+    padding-top: 10px;
+    background-color: #2E2E2E;
+    color:#D8D8D8;
+    
 }
 .margin{
-    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: #000000;
+    color: white;
+   
+}
+.servicos{
+    padding-top: 30px;
+    background-color: #CEECF5;
+}
+.imagemcomputador{
+    padding-top: 5px;
+    background-color: #EFF5FB;
+}
+.imagemcelular{
+    padding-top: 55px;
+}
+.imagemnotebock{
+    padding-top: 35px;
+}
+.footer{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    padding-top: 70px;
+    color: white;
 }
